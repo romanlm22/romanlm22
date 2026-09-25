@@ -77,7 +77,7 @@ Aplicación web de comercio electrónico desarrollada con Laravel, incluyendo pr
 
 ## 📫 Contacto
 
-* 💼 LinkedIn: [Mi LinkedIn](www.linkedin.com/in/victor-roman-lopez-machado-65772b34b)
+* 💼 LinkedIn: [www.linkedin.com/in/victor-roman-lopez-machado-65772b34b]
 * 📧 Email: [trabajovictoroman@gmail.com]
 * 🐙 GitHub: [@romanlm22](https://github.com/romanlm22)
 
