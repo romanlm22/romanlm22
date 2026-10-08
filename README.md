@@ -50,18 +50,6 @@ Aplicación para gestionar y clasificar casos de triaje mediante inteligencia ar
 
 **Tecnologías:** Laravel, PHP, Vue.js, n8n, Gemini API.
 
-### 📚 LiterAlura
-
-Aplicación desarrollada durante mi formación en Java y Spring Framework para consultar y gestionar información de libros y autores.
-
-**Tecnologías:** Java, Spring Boot, Spring Data JPA, PostgreSQL.
-
-### 🛒 Sistema de Gestión de Ventas
-
-Proyecto académico de diseño e implementación de una base de datos para la gestión de ventas de un supermercado.
-
-**Conceptos:** modelo ER, modelo relacional, normalización hasta 3FN y SQL.
-
 ### 💊 Farmacia Online
 
 Aplicación web de comercio electrónico desarrollada con Laravel, incluyendo productos, usuarios y carrito de compras.
