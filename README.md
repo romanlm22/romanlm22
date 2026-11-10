@@ -132,7 +132,7 @@ Proyecto de bases de datos orientado a la gestión de ventas de un supermercado.
 
 ## 📫 Contacto
 
-- 💼 **LinkedIn:** [Victor Roman Lopez Machado](https://www.linkedin.com/in/victor-roman-lopez-machado-65772b34b/)
+- 💼 **LinkedIn:** [Victor Roman Lopez Machado](https://www.linkedin.com/in/victormachado22/)
 - 📧 **Email:** trabajovictoroman@gmail.com
 - 🐙 **GitHub:** [@romanlm22](https://github.com/romanlm22)
 
